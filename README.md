@@ -4,7 +4,7 @@ Predicts whether a student will **pass or fail** from attendance, weekly study h
 
 ## Website Link
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app/
+**Live app:** https://student-performance-pijush.streamlit.app/
 
 Anyone can open the link, enter a student's details and see the pass/fail probabilities. No installation needed.
 
