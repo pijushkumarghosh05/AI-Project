@@ -1,0 +1,3 @@
+Model,CV accuracy,Test accuracy,Precision,Recall,F1,ROC AUC
+Decision Tree,0.819,0.875,0.895,0.902,0.899,0.927
+Random Forest,0.851,0.87,0.882,0.911,0.896,0.931
